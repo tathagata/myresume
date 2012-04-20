@@ -1,5 +1,5 @@
 clean:
 
 build:
-	pdflatex TathagataDasgupta.tex
-	evince TathagataDasgupta.pdf
+	pdflatex *.tex
+	#evince TathagataDasgupta.pdf
