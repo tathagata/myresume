@@ -6,6 +6,8 @@
 \usepackage{tabularx,colortbl}
 \usepackage{xcolor}             % Colors 
 \usepackage{anysize}
+\usepackage{sidecap}
+\usepackage{graphicx}
 
 \marginsize{.85cm}{.85cm}{-.3cm}{.85cm}
 \titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
@@ -13,23 +15,30 @@
 \renewcommand{\headfont}{\normalfont\rmfamily\scshape}
 \cofoot{903 South Ashland Avenue, Unit. 902B, Chicago, Illinois - 60607\\
 \so{ {\Large\Email} tathagatadg@gmail.com \ {\Large\Mobilefone} 312-286-7657}}
+
+
 \begin{document}
+
 \begin{center}
+\hspace{0.3mm}
+%\noindient\begin{minipage}{0.09\textwidth}% adapt widths of minipages to your needs
+%\noindent\indent\begin{minipage}{0.1\linewidth}% adapt widths of minipages to your needs
+%\includegraphics[width=\linewidth]{output.png}
+%\end{minipage}%
+%\hfill%
+
 \textsc{\huge{\so{Tathagata Dasgupta}}}
 
 \section{Skills}
 
 \begin{itemize}
 \small\sffamily{}
-\item \textsc{Languages}: \small{\sffamily{Python, Java, C/C++, Bash}}
-\vspace{-0.3cm}
-\item \textsc{Web Languages}: \small{\sffamily{PHP, HTML5, CSS3, JQuery, 
-JSP/Servlets \vspace{-0.3cm}}}
-\item \textsc{Developer Tools}: \small{\sffamily{GCC, Make, GDB, GIT,
-SVN \vspace{-0.3cm}}}
+\item \textsc{Languages}: \small{\sffamily{Python, Java, C/C++, Bash, PHP, HTML5, CSS3, JQuery, 
+JSP/Servlets, Android/Phonegap \vspace{-0.3cm}}}
+\item \textsc{Tools}: \small{\sffamily{GCC, Make, GDB, GIT,
+SVN, Vim, Eclipse \vspace{-0.3cm}}}
 \item \textsc{Database}: \small{\sffamily{MySql, Oracle, PostGre SQL \vspace{-0.3cm}}}
-\item \textsc{Environment}: \small{\sffamily{Unix, GNU/Linux, Windows Server, Google AppEngine \vspace{-0.3cm}}}
-\item \textsc{Mathematical}: \small{\sffamily{Matlab, R \vspace{-0.3cm}}}
+\item \textsc{Environment/Platforms}: \small{\sffamily{Unix, GNU/Linux, Windows Server, Google AppEngine \vspace{-0.3cm}}}
 \item \textsc{Others}: \LaTeX, \small{\sffamily Content Management
 Systems, Wiki administration,}  \small{\sffamily standard office suites }
 
@@ -53,6 +62,17 @@ Systems, Wiki administration,}  \small{\sffamily standard office suites }
  				International}}.}
  	 			%\end{itemize}
 \end{tabularx}
+\begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+\gray 2012 \tiny{Summer} & \small{\sffamily{Xaptum.com}}\\
+\gray Job Title & \small{\sffamily{Developer Intern}}\\
+				%&
+ 				%\begin{itemize}
+ 				\vspace{-0.6cm} 
+ 				&\small{\sffamily {Design and implementation of a heterogenous M2M (machine to machine) platform with ACE, RabbitMQ, OSGi, Spring-WS
+ 				}}\\
+ 	 			%\end{itemize}
+\end{tabularx}
+
 
 \section{Research Experience}
 \begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
@@ -109,12 +129,24 @@ and Engineering, West Bengal University of Technology, India }}\\ & \small{\sffa
 \end{itemize} 
 
 \section{Interests}
-\begin{itemize}
+%\begin{itemize}
 \small\sffamily{}
-\item Exploring newest technology, creating mashups [http://github.com/tathagata]
-\vspace{-0.3cm}
-\item Blogging [http://tathagatadg.blogspot.com]
-\end{itemize} 
+%\item Exploring latest technology, API-s [http://github.com/tathagata], blogging [http://tathagatadg.blogspot.com]
+Exploring latest technology, API-s [http://github.com/tathagata], blogging [http://tathagatadg.blogspot.com]
+%\vspace{-0.3cm}
+%\end{itemize} 
+
+%\begin{figure}[h] 
+%\centering 
+%  \includegraphics[width=0.5\textwidth]{output.png}\\
+%\caption{} 
+%\end{figure} 
+
+
+%\noindent\begin{minipage}{0.09\textwidth}\raggedleft% adapt widths of minipages to your needs
+%\includegraphics[width=\linewidth]{output.png}
+%\end{minipage}%
+%\hfill%
 
 
 \end{center}
