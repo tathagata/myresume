@@ -45,5 +45,5 @@ _Computer Algorithms, Computer Networks, Artificial Intelligence, Database Manag
 * Finished second at Google Chicago Coding Challenge, Chicago, January 2012
 
 # Interests 
-	* Exploring newest technology, creating mashups [http://github.com/tathagata]
-	* Blogging [http://tathagatadg.blogspot.com]
+* Exploring newest technology, [creating mashups] (http://github.com/tathagata)
+* [Blogging] (http://tathagatadg.blogspot.com)
