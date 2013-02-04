@@ -1,7 +1,6 @@
-# Tathagata Dasgupta/ tathagatadg@gmail.com/ @tathagata
-### 903 South Ashland Avenue, Unit. 902B, Chicago, Illinois - 60607
+# Tathagata Dasgupta/ tathagatadg.gmail@com/ @tathagata
 
- _Hack code, Build cool_
+### _Hack code, Build cool_
 
 * Languages: Python, Java, C/C++, Bash
 * Web Languages: PHP, HTML5, CSS3, JQuery, JSP/Servlets
@@ -12,16 +11,16 @@
 * Others: LATEX, Content Management Systems, Wiki administration, standard office suites
 
 # Work Experience
-|2011- present | Research Assistant, Dr. Mark Grechanik, University of Illinois, Chicago|
-	:Application of information retrieval techniques for solving problems that lie at the intersection of data privacy
+### 2011- present : Research Assistant, Dr. Mark Grechanik, University of Illinois, Chicago
+	* Application of information retrieval techniques for solving problems that lie at the intersection of data privacy
 	and software traceability using Python, Java, bash scripting, MongoDB
 
-|2012 Summer | Developer Intern, Xaptum.com |
-	: Designed and implemented key module of the heterogeneous machine to machine(m2m) platform with RabbitMQ, Java OSGi, Spring-WS.
+### 2012 Summer : Developer Intern, [Xaptum.com] (http://www.xaptum.com)
+	* Designed and implemented key module of the heterogeneous machine to machine(m2m) platform with RabbitMQ, Java OSGi, Spring-WS.
 	Worked directly with the CEO on product strategy and vision.
  
 
-| 2007-2009 | Project Engineer, Wipro Technologies, India |
+### 2007-2009 : Project Engineer, Wipro Technologies, India 
 	:Service orchestration in Aqualogic Service Bus Java Web Services for Farmers Insurance. Automated manual
 	maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity
 	with a Lucene based SMTD search engine.
@@ -35,14 +34,14 @@
 	* 15-Puzzle solver using A* and iterative deepening algorithms
 
 # Education 
-| 2011- present | Master of Science, Management Information Systems, University of Illinois, Chicago |
-	:Data Mining & Information Retrieval, Marketing Analytics, E-Marketing, System Analysis & Design, Audit &
-	Control of Information Systems, Enterprise Infrastructure Planning & Information Security
+### 2011- present : Master of Science, Management Information Systems, University of Illinois, Chicago 
+	_Data Mining & Information Retrieval, Marketing Analytics, E-Marketing, System Analysis & Design, Audit &
+	Control of Information Systems, Enterprise Infrastructure Planning & Information Security_
 
-| 2003-2007 | Bachelor of Technology in Computer Science and Engineering, West Bengal University of Technology, India |
-	: Computer Algorithms, Computer Networks, Artificial Intelligence, Database Management Systems, Compiler
-Design, Advanced Computer Architecture, Advanced Algorithms
-
+### 2003-2007 : Bachelor of Technology in Computer Science and Engineering, West Bengal University of Technology, India 
+	_ Computer Algorithms, Computer Networks, Artificial Intelligence, Database Management Systems, Compiler
+Design, Advanced Computer Architecture, Advanced Algorithms_
+ 
 
 # Honors
 * One of the 100 ﬁnalists for US Cyber Challenge, Virginia Regional Cyber Security Boot Camp, August 2011
