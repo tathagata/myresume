@@ -3,7 +3,7 @@ clean:
 build:
 	pdflatex TathagataDasgupta.tex
 	evince TathagataDasgupta.pdf &
-#	cp *.pdf ~/Dropbox/Public/. 
+	cp *.pdf ~/Dropbox/Public/. 
 
 git:
 	git push origin master
