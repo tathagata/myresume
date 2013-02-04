@@ -19,9 +19,9 @@
  
 
 ### 2007-2009 : Project Engineer, Wipro Technologies, India 
-	Service orchestration in Aqualogic Service Bus Java Web Services for Farmers Insurance. Automated manual
-	maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity
-	with a Lucene based SMTD search engine.
+* Service orchestration in Aqualogic Service Bus Java Web Services for Farmers Insurance. Automated manual
+maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity
+with a Lucene based SMTD search engine.
 
 
 # Recent Academic Projects 
@@ -36,7 +36,7 @@
 _Data Mining & Information Retrieval, Marketing Analytics, E-Marketing, System Analysis & Design, Audit & Control of Information Systems, Enterprise Infrastructure Planning & Information Security_
 
 ### 2003-2007 : Bachelor of Technology in Computer Science and Engineering, West Bengal University of Technology, India 
-_ Computer Algorithms, Computer Networks, Artificial Intelligence, Database Management Systems, Compiler Design, Advanced Computer Architecture, Advanced Algorithms_
+_Computer Algorithms, Computer Networks, Artificial Intelligence, Database Management Systems, Compiler Design, Advanced Computer Architecture, Advanced Algorithms_
  
 
 # Honors
