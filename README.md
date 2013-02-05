@@ -33,7 +33,7 @@ with a Lucene based SMTD search engine.
 
 # Education 
 ### 2011- present : Master of Science, Management Information Systems, University of Illinois, Chicago 
-_Data Mining & Information Retrieval, Marketing Analytics, E-Marketing, System Analysis & Design, Audit & Control of Information Systems, Enterprise Infrastructure Planning & Information Security_
+_Data Mining & Information Retrieval, Marketing Analytics, E-Marketing, System Analysis & Design, Entrepreneurial Product Development: Licensing, Audit & Control of Information Systems, Enterprise Infrastructure Planning & Information Security_
 
 ### 2003-2007 : Bachelor of Technology in Computer Science and Engineering, West Bengal University of Technology, India 
 _Computer Algorithms, Computer Networks, Artificial Intelligence, Database Management Systems, Compiler Design, Advanced Computer Architecture, Advanced Algorithms_
