@@ -1,7 +1,6 @@
-# Tathagata Dasgupta/ 
-## tathagatadg.gmail@com/ @tathagata
+# Tathagata Dasgupta
 
-### _Hack code, Build cool_
+#### _Hack code, Build cool_. tathagatadg.gmail@com/ @tathagata
 
 * Languages: Python, Java, C/C++, Bash
 * Web Languages: PHP, HTML5, CSS3, JQuery, JSP/Servlets
