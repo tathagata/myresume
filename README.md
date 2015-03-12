@@ -20,14 +20,13 @@ is an end to end Python stack consisting of a functional reactive
 framework, microservices, a globally replicated object store, and a
 high-throughput/low-latency messaging system. As a member of scrum
 team, I have worked with global market operations to gather
-requirements through spec by examples, design and implement solutions
+requirements through spec by examples, designed and implemented solutions
 to deliver fully tested code in a fast-paced environment.  I have
 worked on a high-performance trade matching, confirmation generation,
 and workflow management frameworks. Currently, I'm working on
 integration of a cloud based trade documentation technology.
 
-### 2011-2013 : Research Assistant, Dr. Mark Grechanik, University
-of Illinois, Chicago * 
+### 2011-2013 : Research Assistant, Dr. Mark Grechanik, University of Illinois, Chicago
 
 _Application of information retrieval techniques for solving problems
 that lie at the intersection of data privacy and software traceability
