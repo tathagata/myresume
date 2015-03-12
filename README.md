@@ -10,7 +10,18 @@
 * Mathematical: Matlab, R
 * Others: LATEX, Content Management Systems, Wiki administration, standard office suites
 
-# Work Experience
+
+# Work Experience ## 2013- present : Technology Associate, Bank of
+#America Merrill Lynch, Chicago 
+
+I work on the Bank's cross-asset technology platform that's all Python
+and comprises of a functional reactive framework, microservices,
+globally replicated object store, and high-throughput/low-latency
+messaging. As a member of scrum team, I have worked on building
+high-performance trade matching and confirmation generation systems
+and workflow management framework. Currently, I'm working on integration of a cloud based trade
+documentation technology for equity options and swaps.
+
 ### 2011- present : Research Assistant, Dr. Mark Grechanik, University of Illinois, Chicago
 * _Application of information retrieval techniques for solving problems that lie at the intersection of data privacy and software traceability using Python, Java, bash scripting, MongoDB_
 
@@ -21,7 +32,7 @@
 ### 2007-2009 : Project Engineer, Wipro Technologies, India 
 * Service orchestration in Aqualogic Service Bus Java Web Services for Farmers Insurance. Automated manual
 maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity
-with a Lucene based SMTD search engine.
+with a Lucene based search engine.
 
 
 # Recent Academic Projects 
@@ -40,10 +51,20 @@ _Computer Algorithms, Computer Networks, Artificial Intelligence, Database Manag
  
 
 # Honors
-* One of the 100 ﬁnalists for US Cyber Challenge, Virginia Regional Cyber Security Boot Camp, August 2011
-* One of the 20 ﬁnalists selected worldwide for Knight-Mozilla News Challenge, Berlin, September 2011.
 * Finished second at Google Chicago Coding Challenge, Chicago, January 2012
+* One of the 20 ﬁnalists selected worldwide for Knight-Mozilla News Challenge, Berlin, September 2011.
 
-# Interests 
-* Exploring newest technology, [creating mashups] (http://github.com/tathagata)
-* [Blogging] (http://tathagatadg.blogspot.com)
+# Interests * Co-organizer and Director of Mentorship of Chicago
+Python User Group 
+
+** I help organize the Chicago Python user group meetup and have
+launched the of the only Python programming mentorship program in the
+country that is completely free and volunteer driven. I manage the
+process of recruiting experienced Python programmers in our community
+as mentors and pair them up with people who are new to Python or want
+to improve their skills. Till date I have worked with over 60 Python developers
+to match them across different skill levels.
+
+* Exploring newest technology, [creating mashups]
+(http://github.com/tathagata) * [Blogging]
+(http://tathagatadg.blogspot.com)
