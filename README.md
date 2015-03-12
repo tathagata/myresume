@@ -67,8 +67,8 @@ _Computer Algorithms, Computer Networks, Artificial Intelligence, Database Manag
 * Finished second at Google Chicago Coding Challenge, Chicago, January 2012
 * One of the 20 ﬁnalists selected worldwide for Knight-Mozilla News Challenge, Berlin, September 2011.
 
-# Interests * Co-organizer and Director of Mentorship of Chicago
-Python User Group 
+# Interests 
+### Co-organizer and Director of Mentorship of Chicago Python User Group 
 
 ** I help organize the Chicago Python user group meetup and have
 launched the of the only Python programming mentorship program in the
