@@ -11,28 +11,42 @@
 * Others: LATEX, Content Management Systems, Wiki administration, standard office suites
 
 
-# Work Experience ## 2013- present : Technology Associate, Bank of
-#America Merrill Lynch, Chicago 
+# Work Experience
 
-I work on the Bank's cross-asset technology platform that's all Python
-and comprises of a functional reactive framework, microservices,
-globally replicated object store, and high-throughput/low-latency
-messaging. As a member of scrum team, I have worked on building
-high-performance trade matching and confirmation generation systems
-and workflow management framework. Currently, I'm working on integration of a cloud based trade
-documentation technology for equity options and swaps.
+## 2013- present : Technology Associate, Bank of America Merrill Lynch, Chicago 
 
-### 2011- present : Research Assistant, Dr. Mark Grechanik, University of Illinois, Chicago
-* _Application of information retrieval techniques for solving problems that lie at the intersection of data privacy and software traceability using Python, Java, bash scripting, MongoDB_
+I work on the Bank's proprietory cross-asset technology platform that
+is an end to end Python stack consisting of a functional reactive
+framework, microservices, a globally replicated object store, and a
+high-throughput/low-latency messaging system. As a member of scrum
+team, I have worked with global market operations to gather
+requirements through spec by examples, design and implement solutions
+to deliver fully tested code in a fast-paced environment.  I have
+worked on a high-performance trade matching, confirmation generation,
+and workflow management frameworks. Currently, I'm working on
+integration of a cloud based trade documentation technology.
 
-### 2012 Summer : Developer Intern, [Xaptum.com] (http://www.xaptum.com)
-* Designed and implemented key module of the heterogeneous machine to machine(m2m) platform with RabbitMQ, Java OSGi, Spring-WS. Worked directly with the CEO on product strategy and vision.
+### 2011-2013 : Research Assistant, Dr. Mark Grechanik, University
+of Illinois, Chicago * 
+
+_Application of information retrieval techniques for solving problems
+that lie at the intersection of data privacy and software traceability
+using Python, Java, bash scripting, MongoDB_
+
+### 2012 Summer : Developer Intern, [Xaptum.com]
+(http://www.xaptum.com) 
+
+* Designed and implemented key modules of the heterogeneous Internet
+of Things platform with RabbitMQ, Java OSGi, Spring-WS. Worked
+directly with the CEO on product strategy and vision.
  
 
 ### 2007-2009 : Project Engineer, Wipro Technologies, India 
-* Service orchestration in Aqualogic Service Bus Java Web Services for Farmers Insurance. Automated manual
-maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity
-with a Lucene based search engine.
+
+* Service orchestration in Aqualogic Service Bus Java Web Services for
+Farmers Insurance. Automated manual maintenance jobs, permanent fix to
+long standing issues in legacy applications, increased team
+productivity with a Lucene based search engine.
 
 
 # Recent Academic Projects 
