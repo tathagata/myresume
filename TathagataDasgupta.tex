@@ -8,13 +8,16 @@
 \usepackage{anysize}
 \usepackage{sidecap}
 \usepackage{graphicx}
+\usepackage[ampersand]{easylist}
+
 
 \marginsize{.85cm}{.85cm}{-.3cm}{.85cm}
 \titleformat{\section}{\large\scshape\raggedright}{}{0em}{}[\titlerule]
 \pagestyle{scrheadings}
 \renewcommand{\headfont}{\normalfont\rmfamily\scshape}
-\cofoot{1111 North Dearbron Street, Apt. 2006, Chicago, Illinois - 60610\\
-\so{ {\Large\Email} tathagatadg@gmail.com \ {\Large\Mobilefone} 312-286-7657}}
+\cofoot{{\Email} tathagatadg@gmail.com \ {\Mobilefone} 312-286-7657 \ {\Mundus} tathagata.me  \\
+1111 North Dearbron Street, Apt. 2006, Chicago, Illinois - 60610}
+   
 
 
 \begin{document}
@@ -26,44 +29,42 @@
 \includegraphics[width=\linewidth]{output.png}
 \end{minipage}%
 %\hfill%
-
+\vspace{-0.7cm}
 \section{Skills}
 
 \begin{itemize}
-\small\sffamily{}
-\item \textsc{Languages}: \small{\sffamily{Python, Java, C/C++, Bash, PHP, HTML5, CSS3, JQuery, 
+%\small\sffamily{}
+\item \textsc{Languages}: \small{\sffamily{Python, Java, C/C++, Bash, PH, HTML5, CSS3, JQuery, 
 JSP/Servlets, Android/Phonegap \vspace{-0.3cm}}}
 \item \textsc{Tools}: \small{\sffamily{GCC, Make, GDB, git,
 SVN, Emacs, Vim, Eclipse \vspace{-0.3cm}}}
 \item \textsc{Database}: \small{\sffamily{MongoDB, MySql, Oracle, PostGre SQL \vspace{-0.3cm}}}
 \item \textsc{Environment/Platforms}: \small{\sffamily{Unix, GNU/Linux, Windows Server \vspace{-0.3cm}}}
-\item \textsc{Others}: \LaTeX, \small{\sffamily Content Management
-Systems, Wiki administration,}  \small{\sffamily standard office suites }
+%\item \textsc{Others}: \LaTeX, \small{\sffamily Content Management
+%Systems, Wiki administration,}  \small{\sffamily standard office suites }
 
 \end{itemize} 
-
-
 
 \section{Work Experience}
 \newcommand{\gray}{\rowcolor[gray]{.90}}
 \begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
-\gray 2011- \tiny{present} & \small{\sffamily{Technology Associate, Bank of America Merrill Lynch, Chicago }}\\
-				\vspace{-0.6cm} 
- 				&\small{\sffamily {
-I work on the Bank's proprietory cross-asset technology platform that
-is an end to end Python stack consisting of a functional reactive
-framework, microservices, a globally replicated object store, and a
-high-throughput/low-latency messaging system. As a member of scrum
-team, I have worked with global market operations to gather
-requirements through spec by examples, design and implement solutions
-to deliver fully tested code in a fast-paced environment.  I have
-worked on a high-performance trade matching, confirmation generation,
-and workflow management frameworks. Currently, I'm working on
-integration of a cloud based trade documentation technology.}}\\
-				\vspace{-0.3cm} 
+\gray 2013- \tiny{present} & \small{\sffamily{Technology Associate, Bank of America Merrill Lynch, Chicago }}\\
+				\vspace{-0.6cm} &\small{\sffamily { 
+
+I work on the Bank's proprietory cross-asset technology platform Quartz
+- a complete Python stack consisting of myriad mix of technologies
+like functional reactive frameworks, microservices, globally
+replicated object store, and high-throughput/low-latency messaging
+system. As a member of scrum team, I work with Global Market
+operations to gather requirements through spec by examples, design and
+implement solutions to deliver fully tested code in a fast-paced
+environment. I have worked on high-performance trade matching,
+confirmation generation, and workflow management frameworks and integration of a SaaS solution for customer
+engaement.}}\\
+\vspace{-0.3cm} 
 \end{tabularx}
 
-\newcommand{\gray}{\rowcolor[gray]{.90}}
+
 \begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
 \gray 2011- \tiny{present} & \small{\sffamily{Research Assistant, Dr. Mark Grechanik, University of Illinois, Chicago }}\\
 				\vspace{-0.6cm} 
@@ -76,7 +77,6 @@ integration of a cloud based trade documentation technology.}}\\
  				\vspace{-0.6cm} 
  				&\small{\sffamily {Worked directly with the CEO on product strategy and vision. Designed and implemented key module of the heterogeneous machine to machine(m2m) platform with RabbitMQ, Java OSGi, Spring-WS.
  				}}\\
-				
 				\vspace{-0.3cm} 
 \end{tabularx}
 
@@ -86,34 +86,78 @@ integration of a cloud based trade documentation technology.}}\\
  				%\begin{itemize}
  				\vspace{-0.6cm} 
  				&\small{\sffamily {Service orchestration in Aqualogic Service Bus
- 				Java Web Services for {\em Farmers Insurance}. Automated manual maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity with a Lucene based SMTD search engine. }}\\
+ 				Java Web Services for {\em Farmers Insurance}. Automated manual maintenance jobs, permanent fix to long standing issues in legacy applications, increased team productivity with a Lucene based search engine for system maintenance technical documents.}}\\
  	 			%\end{itemize}
 \end{tabularx}
 
+\vspace{-0.3cm} 
+
 \section{Education}
 \begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
-\gray 2011- \tiny{present}  & \small{\sffamily{Master of Science, Management Information Systems, University of Illinois, Chicago}} \\%GPA 3.53/4.0\\ \gray
+\gray 2011- 2013 & \small{\sffamily{Master of Science, Management Information Systems, University of Illinois, Chicago}} \\
  & \small{\sffamily{\em{Data Mining \& Information Retrieval, Marketing Analytics, E-Marketing, System Analysis \& Design, Entrepreneurial Product Development: Licensing, Audit \& Control of Information Systems, Enterprise Infrastructure Planning \& Information Security}}}	\\
 \gray 2003-2007 & \small{\sffamily{Bachelor of Technology in Computer Science
 and Engineering, West Bengal University of Technology, India }}\\ & \small{\sffamily{\em{Computer Algorithms, Computer Networks,
 	Artificial Intelligence, Database Management Systems, Compiler Design,
 	Advanced Computer Architecture, Advanced Algorithms}}}	\\
 \end{tabularx}
+\vspace{-0.3cm} 
 
-
-\section{Recent Academic Projects}
+\section{Volunteering}
 \begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
-\gray Spr 2011 & \small{\sffamily{Truth Verification system using Wikipedia}}\\ 
-\gray Fall 2010  &  \small{\sffamily{Review Spam Detection - Using machine
-learning algorithms and statistical measures for detecting spam reviews}} \\
-\gray Spr 2010  & \small{\sffamily Evaluation of Cache Optimization Techniques using
-  SimpleScalar simulator, Compiler for C- language, Deadlock simulation in Apache Derby Database} \\
-\gray Fall 2009  & \small{\sffamily 15-Puzzle solver using A* and iterative
-deepening algorithms}
-
+\gray 2014- \tiny{present}  & \small{\sffamily{Director of Mentorship, Chicago Python User Group }} \\
+& \small{\sffamily{As a co-organizer of one of the most active technology groups in the
+country, I help organize monthly meetups and have started a
+programming mentorship program that is completely free and volunteer
+driven. Over the last six months I have worked with over 60 developers
+pairing mentor \& mentees to help them become more proficient in
+Python.}}\\
 \end{tabularx}
 
 
+\vspace{-0.6cm}
+
+\section{Honors}
+\begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+\gray 2011   & \small{\sffamily{ Knight-Mozilla News Challenge, Berlin}} \\
+
+& \small\sffamily{ 
+Knight News Challenge accelerates media innovation by funding
+breakthrough ideas in news and information. I was one of the 20
+finalists selected worldwide for a weeklong hackathon and built a
+number of data visualization and information retrieval tools.
+}\\
+
+
+%\vspace{-0.3cm}
+\gray 2012   & \small\sffamily{ Google Chicago Coding Challenge} \\
+& \small\sffamily{Built a realtime teacher student interaction system for large classrooms
+that would encourage students to ask questions using different google technologies.}\\
+\end{tabularx} 
+
+\section{Publications}
+%\begin{tabularx}{0.98\linewidth}{>{\raggedleft\scshape}p{2cm}X}
+\begin{itemize}
+         \item \small\sffamily{\textbf{Tathagata Dasgupta}, Mark Grechanik, Evan Moritz, Bogdan Dit, Denys Poshyvanyk: \em {Enhancing Software Traceability by Automatically Expanding Corpora with Relevant Documentation}. IEEE International Conference on Software Maintenance, 2013}\\
+\small\sffamily{Traceability is establishing link between software requirement documentation and source code. The existing approaches for traceability applied natural language text mining algorithms on the code base, overlooking the fact that source code is an abstract form. We reduced the symantic distance between source code and requirement by expanding the abstract syntax tree of Java programs with jdk documentation that increased the precision of recovering traceability links by 9\% on average}   
+\vspace{-0.2cm}
+        \item \small\sffamily{Mark Grechanik, Collin McMillan, \textbf{Tathagata Dasgupta}, Denys Poshyvanyk, Malcom Gethers: \em {Redacting sensitive information in software artifacts}. IEEE International Conference on Program Comprehension, 2014}\\
+\small\sffamily{In the past decade, there have been many well-publicized cases of source code leaking from different well-known companies. We proposed a solution of detecting sensitive informaiton, automatically refactoring them without significantly losing code comprehensibility.} 
+
+
+\vspace{-0.2cm}
+\end{itemize}
+
+%gray Spr 2011 & \small{\sffamily{Truth Verification system using Wikipedia}}\\ 
+%\gray Fall 2010  &  \small{\sffamily{Review Spam Detection - Using machine
+%learning algorithms and statistical measures for detecting spam reviews}} \\
+%\gray Spr 2010  & \small{\sffamily Evaluation of Cache Optimization Techniques using
+%  SimpleScalar simulator, Compiler for C- language, Deadlock simulation in Apache Derby Database} \\
+%\gray Fall 2009  & \small{\sffamily 15-Puzzle solver using A* and iterative
+%deepening algorithms}
+
+%\item One of the 100 finalists for US Cyber Challenge, Virginia Regional Cyber Security Boot Camp, August 2011
+%\gray Fall 2009  & \small{\sffamily 15-Puzzle solver using A* and iterative deepening algorithms}
 
 
 %\hfill \sffamily | Legend:  :proficient, .familiar
@@ -126,29 +170,10 @@ deepening algorithms}
 %\gray Job Title & \small{\sffamily{Teaching assistant for Introduction to C/C++, Java, Matlab}}\\
 %\end{tabularx}
 
-\section{Honors}
-\begin{itemize}
-\small\sffamily{}
-\item One of the 100 finalists for US Cyber Challenge, Virginia Regional Cyber Security Boot Camp, August 2011
-\vspace{-0.3cm}
-\item One of the 20 finalists selected worldwide for Knight-Mozilla News Challenge, Berlin, September 2011.
-\vspace{-0.3cm}
-\item Finished second at Google Chicago Coding Challenge, Chicago, January 2012
-\end{itemize} 
 
-\section{Interests}
-%\begin{itemize}
-\small\sffamily{}
-%\item I help organize the Chicago Python user group meetup and have
-launched the of the only Python programming mentorship program in the
-country that is completely free and volunteer driven. I manage the
-process of recruiting experienced Python programmers in our community
-as mentors and pair them up with people who are new to Python or want
-to improve their skills. Till date I have worked with over 60 Python developers
-to match them across different skill levels.
 
 %\item Exploring latest technology, API-s [http://github.com/tathagata], blogging [http://tathagatadg.blogspot.com]
-Exploring latest technology, API-s [http://github.com/tathagata], blogging [http://tathagatadg.blogspot.com]
+%Exploring latest technology, API-s [http://github.com/tathagata], blogging [http://tathagatadg.blogspot.com]
 %\vspace{-0.3cm}
 %\end{itemize} 
 
@@ -158,12 +183,10 @@ Exploring latest technology, API-s [http://github.com/tathagata], blogging [http
 %\caption{} 
 %\end{figure} 
 
-
 %\noindent\begin{minipage}{0.09\textwidth}\raggedleft% adapt widths of minipages to your needs
 %\includegraphics[width=\linewidth]{output.png}
 %\end{minipage}%
 %\hfill%
-
 
 \end{center}
 \end{document}
