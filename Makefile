@@ -8,6 +8,10 @@ build:
 git:
 	git push origin master
 
+
+scp:
+	ssh local "cd /home/t/projects/myresume/; pdflatex TathagataDasgupta.tex";scp t@local:/home/t/projects/myresume/TathagataDasgupta.pdf .
+
 ci:
 	watch -n 5 pdflatex TathagataDasgupta.tex
 #	alias myWatch='_() { while :; do clear; $2; sleep $1; done }; _'
